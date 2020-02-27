@@ -1,0 +1,9 @@
+
+body{
+background-image:url("/home/Sem6B8/Downloads/index.jpeg");
+background-repeat:repeat-y;
+background-attachment:fixed;
+}
+p {
+font-style:italic; font-size:small; font-weight:bold; font-stretch:ultra-expanded; letter-spacing:5px;}
+
